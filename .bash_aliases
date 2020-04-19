@@ -2,7 +2,7 @@
 alias ll='ls -altr'   # list the files with details
 
 # Useful MagicMirror aliases
-alias cdMM='cd ~/MagicMirror'          # change to the config directory
+alias cdMM='cd ~/MagicMirror'          # change to the MagicMirror directory
 alias cdMMC='cd ~/MagicMirror/config'   # change to the config directory
 alias cdMMM='cd ~/MagicMirror/modules'  # change to the modules directory
 alias cdMMS='cd ~/MagicMirror/css'      # change to the mcss directory

@@ -17,3 +17,8 @@ The structure is as follows:
 ```
 alias <alias name>='<command to execute'  # A comment that explains the purpose
 ```
+
+### Download the .bash_aliases file to you users home directory using the following command:
+```
+wget https://raw.githubusercontent.com/MoreLinuxDev/MagicMirror-bash-aliases/Development/.bash_aliases 
+```
